@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+
+body{
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
+/* bg-red-400 px-4 py-3 rounded-lg shadow-xl text-white uppercase tracking-wide */
+.loginbtn{
+    background-color: red;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 20px;
+    box-shadow: 10px;
+    color: white;
+    text-transform: uppercase;
+}
